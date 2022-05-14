@@ -1,0 +1,8 @@
+{
+  "name": "flexbox-minimalist",
+  "version": "1.0.0",
+  "description": "Set of flexbox classes",
+  "keywords": ["flexbox"],
+  "author": "DMITRII MATROSOV",
+  "license": "ISC"
+}
