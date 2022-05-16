@@ -1,8 +1,16 @@
 {
   "name": "flexbox-minimalist",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Set of flexbox classes",
   "keywords": ["flexbox"],
   "author": "DMITRII MATROSOV",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrosov2019/flexbox-minimalist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matrosov2019/flexbox-minimalist/issues"
+  },
+  "homepage": "https://github.com/matrosov2019/flexbox-minimalist#readme"
 }
